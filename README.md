@@ -22,6 +22,6 @@ cybersecurity-portfolio/
 ├── reports/       # Vulnerability assessment and SOC-style reports
 ├── notes/         # Cybersecurity revision notes
 ├── scripts/       # Bash, Python, and automation scripts
-├── daily-work/      # day-1, day-2
+├── daily-work/    # Day-1, Day-2, Day-3, 
 ├── screenshots/   # General screenshots
 └── templates/     # Report and documentation templates
