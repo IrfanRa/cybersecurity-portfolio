@@ -32,7 +32,7 @@
    ## Allowed vs Not Allowed
 
 | Activity | Allowed? | Condition |
-|---|---:|---|
+
 | Scan my Kali/Windows/Ubuntu VM | Yes | Own local lab |
 | Test DVWA/Juice Shop | Yes | Intentionally vulnerable lab |
 | Scan my own WordPress site | Yes | I own it |
